@@ -1,0 +1,1 @@
+# YOLOv8x-Based-Optimization-for-Small-Object-Detection-in-Aerial-
